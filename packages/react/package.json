@@ -4,22 +4,22 @@
   "description": "A storybook decorator that allows you to use routing-aware components in your stories.",
   "main": "./dist/react.js",
   "license": "MIT",
-  "author": "Gianni Valdambrini",
+  "author": "Dorin Botan, Gianni Valdambrini",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gvaldambrini/storybook-router.git"
+    "url": "https://github.com/dorinbotan/storybook-router.git"
   },
   "bugs": {
-    "url": "https://github.com/gvaldambrini/storybook-router/issues"
+    "url": "https://github.com/dorinbotan/storybook-router/issues"
   },
-  "homepage": "https://github.com/gvaldambrini/storybook-router",
+  "homepage": "https://github.com/dorinbotan/storybook-router",
   "keywords": [
     "storybook",
     "react",
     "react-router"
   ],
   "peerDependencies": {
-    "@storybook/addon-actions": "^4.0.0||^5.0.0||5.2.0-beta.13",
+    "@storybook/addon-actions": "^4.0.0||^5.0.0||^6.0.0",
     "react": "*",
     "react-dom": "*",
     "react-router": "^4.0.0||^5.0.0"
@@ -28,7 +28,7 @@
     "prop-types": "^15.7.2"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^4.0.9||^5.0.2||5.2.0-beta.13",
+    "@storybook/addon-actions": "^4.0.9||^5.0.2||^6.0.0",
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",

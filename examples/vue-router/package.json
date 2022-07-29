@@ -2,25 +2,25 @@
   "name": "storybook-vue-router-examples",
   "description": "Storybook-router vue-router examples",
   "license": "MIT",
-  "author": "Gianni Valdambrini",
+  "author": "Dorin Botan, Gianni Valdambrini",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gvaldambrini/storybook-router.git"
+    "url": "https://github.com/dorinbotan/storybook-router.git"
   },
   "bugs": {
-    "url": "https://github.com/gvaldambrini/storybook-router/issues"
+    "url": "https://github.com/dorinbotan/storybook-router/issues"
   },
-  "homepage": "https://github.com/gvaldambrini/storybook-router",
+  "homepage": "https://github.com/dorinbotan/storybook-router",
   "keywords": [
     "vue",
     "storybook",
     "vue-router"
   ],
   "dependencies": {
-    "@storybook/addon-actions": "^4.0.9||^5.0.2||5.2.0-beta.13",
-    "@storybook/addon-links": "^4.0.9||^5.0.2||5.2.0-beta.13",
-    "@storybook/addons": "^4.0.9||^5.0.2||5.2.0-beta.13",
-    "@storybook/vue": "^4.0.9||^5.0.2||5.2.0-beta.13",
+    "@storybook/addon-actions": "^4.0.9||^5.0.2||^6.0.0",
+    "@storybook/addon-links": "^4.0.9||^5.0.2||^6.0.0",
+    "@storybook/addons": "^4.0.9||^5.0.2||^6.0.0",
+    "@storybook/vue": "^4.0.9||^5.0.2||^6.0.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "storybook-vue-router": "^1.0.7",
