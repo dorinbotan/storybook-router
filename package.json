@@ -1,5 +1,5 @@
 {
-  "name": "storybook-router",
+  "name": "@dorinbotan/storybook-router",
   "description": "A storybook decorator that allows you to use routing-aware components in your stories.",
   "license": "MIT",
   "author": "Dorin Botan, Gianni Valdambrini",

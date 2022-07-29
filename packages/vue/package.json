@@ -1,5 +1,5 @@
 {
-  "name": "storybook-vue-router",
+  "name": "@dorinbotan/storybook-vue-router",
   "version": "1.0.7",
   "description": "A storybook decorator that allows you to use routing-aware components in your stories.",
   "main": "./dist/vue.js",
@@ -7,12 +7,12 @@
   "author": "Dorin Botan, Gianni Valdambrini",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dorinbotan//storybook-router.git"
+    "url": "https://github.com/dorinbotan/storybook-router.git"
   },
   "bugs": {
-    "url": "https://github.com/dorinbotan//storybook-router/issues"
+    "url": "https://github.com/dorinbotan/storybook-router/issues"
   },
-  "homepage": "https://github.com/dorinbotan//storybook-router",
+  "homepage": "https://github.com/dorinbotan/storybook-router",
   "keywords": [
     "storybook",
     "vue",

@@ -1,5 +1,5 @@
 {
-  "name": "storybook-react-router-examples",
+  "name": "@dorinbotan/storybook-react-router-examples",
   "description": "Storybook-router react-router examples",
   "license": "MIT",
   "author": "Dorin Botan, Gianni Valdambrini",
@@ -31,6 +31,6 @@
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook"
   },
-  "private": true,
+  "private": false,
   "version": "1.0.8"
 }

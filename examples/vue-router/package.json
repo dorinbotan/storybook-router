@@ -1,5 +1,5 @@
 {
-  "name": "storybook-vue-router-examples",
+  "name": "@dorinbotan/storybook-vue-router-examples",
   "description": "Storybook-router vue-router examples",
   "license": "MIT",
   "author": "Dorin Botan, Gianni Valdambrini",
@@ -32,6 +32,6 @@
   "scripts": {
     "storybook": "start-storybook -p 9002 -c .storybook"
   },
-  "private": true,
+  "private": false,
   "version": "1.0.7"
 }

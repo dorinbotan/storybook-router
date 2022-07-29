@@ -1,5 +1,5 @@
 {
-  "name": "storybook-react-router",
+  "name": "@dorinbotan/storybook-react-router",
   "version": "1.0.8",
   "description": "A storybook decorator that allows you to use routing-aware components in your stories.",
   "main": "./dist/react.js",
