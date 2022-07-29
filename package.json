@@ -2,15 +2,15 @@
   "name": "storybook-router",
   "description": "A storybook decorator that allows you to use routing-aware components in your stories.",
   "license": "MIT",
-  "author": "Gianni Valdambrini",
+  "author": "Dorin Botan, Gianni Valdambrini",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gvaldambrini/storybook-router.git"
+    "url": "https://github.com/dorinbotan/storybook-router.git"
   },
   "bugs": {
-    "url": "https://github.com/gvaldambrini/storybook-router/issues"
+    "url": "https://github.com/dorinbotan/storybook-router/issues"
   },
-  "homepage": "https://github.com/gvaldambrini/storybook-router",
+  "homepage": "https://github.com/dorinbotan/storybook-router",
   "keywords": [
     "storybook",
     "react",
@@ -40,5 +40,5 @@
     "storybook-react-examples": "lerna exec --scope storybook-react-router-examples -- npm run storybook",
     "storybook-vue-examples": "lerna exec --scope storybook-vue-router-examples -- npm run storybook"
   },
-  "private": true
+  "private": false
 }
