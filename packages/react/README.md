@@ -1,4 +1,4 @@
-# storybook-router
+# @dorinbotan/storybook-vue-router
 
 A [Storybook](https://storybook.js.org/) decorator that allows you to use your routing-aware components.
 
@@ -42,7 +42,7 @@ you can add the `StoryRouter` decorator to your story this way:
 
 ```js
 import { storiesOf } from '@storybook/react';
-import StoryRouter from 'storybook-react-router';
+import StoryRouter from '@dorinbotan/storybook-react-router';
 
 import ComponentParams from '<your_component_path>/ComponentParams';
 
@@ -57,7 +57,7 @@ If you want to use `StoryRouter` in all your stories, you can also add it global
 
 ```js
 import { configure, addDecorator } from '@storybook/react';
-import StoryRouter from 'storybook-react-router';
+import StoryRouter from '@dorinbotan/storybook-react-router';
 
 addDecorator(StoryRouter());
 
@@ -78,7 +78,7 @@ The match is performed using the [path-to-regexp module](https://www.npmjs.com/p
 The **second argument** is another object which will be forwarded to the wrapped `MemoryRouter` as [props](https://reacttraining.com/react-router/web/api/MemoryRouter). This allows you to write stories having a specific url location or using advanced functionalities as asking the user confirmation before exiting from a location.
 
 ## Advanced usage and examples
-You can find more examples in the provided [stories](https://github.com/gvaldambrini/storybook-router/tree/master/examples/react-router).
+You can find more examples in the provided [stories](https://github.com/gvaldambrini/@dorinbotan/storybook-vue-router/tree/master/examples/react-router).
 You can run them cloning this repository and executing (supposing you have installed globally [lerna](https://github.com/lerna/lerna)):
 
     yarn install && yarn bootstrap

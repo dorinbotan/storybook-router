@@ -1,4 +1,4 @@
-# storybook-router
+# @dorinbotan/storybook-router
 
 **Note: Forked from [Gianni Valdambrini](https://github.com/gvaldambrini/storybook-router) who unfortunately stopped maintaining this project 3 years ago.**
 
